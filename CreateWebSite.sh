@@ -3,7 +3,7 @@
 echo "Schneller WebSite Ersteller"
 echo "Autor: Programmieren für Kinder"
 echo ""
-echo "Der Oberordner des Projekts ist in dieser Datei änderbar."
+echo "Der Oberordner des Projekts ist in dieser Datei änderbar(Standart: ~/Dokumente/PFK/)."
 
 read -p "Wie soll die Website heißen(Dies ist der Titel und der Speicherort im Oberverzeichnis): " name
 
